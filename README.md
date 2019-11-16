@@ -34,5 +34,4 @@ The model observes the change in bounding box area that is covered by the vehicl
 
 
 # Team NullCrew
-
-![picture alt](https://github.com/centerofexcellencehackathon/NullCrew/blob/master/NL_Logo_black_bg2.png "Team NullCrew")
+<img src="https://github.com/centerofexcellencehackathon/NullCrew/blob/master/NL_Logo_black_bg2.png" width="300" height="300">
